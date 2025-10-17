@@ -1,9 +1,15 @@
 .env
 secrets.conf
-*.swp
 *.tmp
+*.swp
 printer-[0-9]*_[0-9]*.cfg
+*.tmp
 .kiauh.ini.bak
 *.bkp
+printer-[0-9]*_[0-9]*.cfg
+.kiauh.ini.bak
+*.csv
+*.bkp
+*.zip
 *.csv
 *.zip
